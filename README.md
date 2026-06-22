@@ -1,6 +1,6 @@
 # Hi, I'm Tory 👋
 
-**Junior Software Developer** • Full-stack JavaScript & Python • Building things that ship
+**Junior Software Developer** • Full-stack JavaScript & Python
 
 I'm a CS student-athlete at the University of Northern Iowa building production-minded applications — React on the frontend, Node.js or Python (Flask) on the backend. I like small teams where I can own a feature end to end, from the database schema to the deployed URL.
 
