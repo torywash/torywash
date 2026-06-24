@@ -44,13 +44,13 @@ Created and deployed a static website for a local church
 
 ## 🌱 What I'm Learning
 
-Right now I'm going deep on JavaScript itself — the language and how it actually works under the hood — while strengthening my React and Vite skills to ship genuine production-ready apps. I'm also sharpening my Python and exploring Angular. I try to stay a student of the craft: always learning, always building.
+Right now I'm going deep on JavaScript itself, the language and how it actually works under the hood, while strengthening my React and Vite skills to ship genuine production-ready apps. I'm also sharpening my Python and exploring Angular. I try to stay a student of the craft: always learning, always building.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm looking for a software development internship — ideally one that can grow into a junior role on a small, hands-on team. Always open to chatting.
+I'm looking for a software development internship, ideally one that can grow into a junior role on a small, hands-on team. Always open to chatting.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tory-wash/)
 - 📧 washt@uni.edu
