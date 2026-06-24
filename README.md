@@ -2,9 +2,9 @@
 
 **Junior Software Developer** • Full-stack JavaScript & Python
 
-I'm a CS student-athlete at the University of Northern Iowa building production-minded applications — React on the frontend, Node.js or Python (Flask) on the backend. I like small teams where I can own a feature end to end, from the database schema to the deployed URL.
+I'm a CS student-athlete at the University of Northern Iowa building production-minded applications. React on the frontend, Node.js or Python on the backend. I like small teams where I can own a feature end to end, from the database schema to the deployed URL.
 
-🔭 Right now I'm building tools around problems I actually understand — most recently for student-athletes juggling academics, scheduling, and wellness.
+🔭 Right now I'm building tools around problems I actually understand, most recently for student-athletes juggling academics, scheduling, and wellness.
 
 ---
 
